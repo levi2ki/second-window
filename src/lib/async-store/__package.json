@@ -1,0 +1,22 @@
+{
+  "name": "async-store",
+  "version": "1.0.0",
+  "description": "async store with injectable reducers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "store",
+    "redux",
+    "async"
+  ],
+  "author": "Makarov Andrey <levi2ki1988@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ramda": "^0.26.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "redux": "^4.0.4"
+  }
+}
